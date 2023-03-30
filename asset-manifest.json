@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hsa1/static/css/main.c675f91d.css",
+    "main.js": "/hsa1/static/js/main.d508f6c4.js",
+    "index.html": "/hsa1/index.html",
+    "main.c675f91d.css.map": "/hsa1/static/css/main.c675f91d.css.map",
+    "main.d508f6c4.js.map": "/hsa1/static/js/main.d508f6c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c675f91d.css",
+    "static/js/main.d508f6c4.js"
+  ]
+}
